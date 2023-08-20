@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Vestido de verano", "price": 40, "category": "ropa", "image": "img/vestido de verano.jpg" },
+    { "id": 2, "name": "Blusa estampada", "price": 25, "category": "ropa", "image": "/img/blusaestampada.jpg" },
+    { "id": 3, "name": "Jeans ajustados", "price": 30, "category": "ropa", "image": "/img/jeans+ajustados.webp" },
+    { "id": 4, "name": "Falda midi", "price": 35, "category": "ropa", "image": "/img/faldamidi.webp" },
+    { "id": 5, "name": "Pantalones de yoga", "price": 20, "category": "ropa", "image": "/img/pantalonyoga.webp" }
+]

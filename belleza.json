@@ -1,0 +1,7 @@
+[
+    { "id": 6, "name": "Labial Mate", "price": 15, "category": "belleza", "image": "/img/labial mate.webp" },
+    { "id": 7, "name": "Paleta de Sombras", "price": 25, "category": "belleza", "image": "/img/paleta de sombras.webp" },
+    { "id": 8, "name": "Esmalate de uñas", "price": 12, "category": "belleza", "image": "/img/Esmalte de Uñas.webp" },
+    { "id": 9, "name": "Base de Maquillaje", "price": 30, "category": "belleza", "image": "/img/Base de Maquillaje.webp" },
+    { "id": 10, "name": "Corrector de Ojeras", "price": 10, "category": "belleza", "image": "/img/Corrector de Ojeras.webp" }
+]
